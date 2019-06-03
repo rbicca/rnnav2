@@ -39,3 +39,10 @@ const styles = StyleSheet.create({
     marginBottom: 5,
   },
 });
+
+
+//https://medium.com/react-native-training/react-native-navigation-v2-by-wix-getting-started-7d647e944132
+
+//https://medium.com/wix-engineering/react-native-navigation-v2-is-here-5b7c87f002a
+
+//https://medium.com/@drorbiran/react-native-crash-course-by-wix-fa56c52da240
